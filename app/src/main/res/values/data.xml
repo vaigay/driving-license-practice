@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="HieuLenhChiDan">
+        <item>Khoản 4 Điều 10 Luật Giao thông đường bộ năm 2008 quy định Biển báo hiệu đường bộ gồm năm nhóm như sau:</item>\n
+        <item>a) Biển báo cấm để biểu thị các điều cấm;</item>\n
+        <item>b) Biển báo nguy hiểm để cảnh báo các tình huống nguy hiểm có thể xảy ra</item>\n
+        <item>c) Biển hiệu lệnh để báo các hiệu lệnh phải thi hành;</item>\n
+        <item>d) Biển chỉ dẫn để chỉ dẫn hướng đi hoặc các điều cần biết;</item>\n
+        <item>e) Biển phụ để thuyết minh bổ sung các loại biển báo cấm, biển báo nguy hiểm, biển hiệu lệnh và biển chỉ dẫn.</item>\n
+        <item>Tại Quy chuẩn kỹ thuật Quốc gia QCVN 41:2019/BGTVT do Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 54/2019/TT-BGTVT ngày 31 tháng 12 năm 2019 quy định phân loại biển báo hiệu như sau:</item>\n
+        <item>Biển báo hiệu được chia thành 5 nhóm cơ bản: biển báo cấm; biển hiệu lệnh; biển báo nguy hiểm và cảnh báo; biển chỉ dẫn; biển phụ, biển viết bằng chữ.</item>\n
+        <item>Biển báo hiệu trên đường cao tốc và đường đối ngoại phải phù hợp với các quy định nêu tại các Điều ước quốc tế mà Việt Nam là thành viên.</item>\n
+        <item>1. Nhóm biển báo cấm là nhóm biển biểu thị các điều cấm mà người tham gia giao thông không được vi phạm. Biển báo cấm chủ yếu có dạng hình tròn, viền đỏ, nền màu trắng, trên nền có hình vẽ hoặc chữ số, chữ viết màu đen thể hiện điều cấm, trừ một số trường hợp đặc biệt.</item>\n
+        <item>2. Nhóm biển hiệu lệnh là nhóm biển để báo các hiệu lệnh phải chấp hành. Người tham gia giao thông phải chấp hành các hiệu lệnh trên biển báo (trừ một số biển đặc biệt). Các biển có dạng hình tròn trên nền xanh lam có hình vẽ màu trắng đặc trưng cho hiệu lệnh nhằm báo cho người tham gia giao thông biết.</item>\n
+        <item>3. Nhóm biển báo nguy hiểm và cảnh báo là nhóm biển báo cho người tham gia giao thông biết trước các nguy hiểm trên đường để chủ động phòng ngừa kịp thời. Biển chủ yếu có hình tam giác đều, viền đỏ, nền màu vàng, trên có hình vẽ màu đen mô tả sự việc cần báo hiệu.</item>\n
+        <item>4. Nhóm biển chỉ dẫn là nhóm biển báo dùng để cung cấp thông tin và các chỉ dẫn cần thiết cho người tham gia giao thông. Biển chỉ dẫn chủ yếu có hình chữ nhật hoặc hình vuông hoặc hình mũi tên, nền màu xanh</item>\n
+        <item>5. Nhóm biển phụ, biển viết bằng chữ là nhóm biển nhằm thuyết minh bổ sung nội dung nhóm biển tại 4 nhóm trên hoặc được sử dụng độc lập.</item>\n
+        <item>Về ý nghĩa của biển báo hiệu miêu tả (biển báo P106b) là để báo đường cấm các loại xe ô tô tải có khối lượng chuyên chở (theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ) lớn hơn 2,5 tấn. Biển có hiệu lực cấm các xe ô tô tải có khối lượng chuyên chở (xác định theo Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ) lớn hơn 2,5 tấn được đi vào (chữ số tấn ghi bằng màu trắng trên hình vẽ xe). Biển có hiệu lực cấm đối với cả máy kéo và các xe máy chuyên dùng đi vào đoạn đường đặt biển.</item>\n
+        <item>Như vậy, khi bạn gặp biển này có nghĩa là ô tô tải có khối lượng chuyên chở lớn hơn 2,5 tấn không được đi vào làn đường có biển này. Nếu vi phạm sẽ bị xử phạt theo quy định tại Nghị định 100/2019/NĐ-CP.</item>\n
+    </string>
+    <string name="ChuyenHuongNhuongDuong">
+
+        <item>Quy định về chuyển hướng khi tham gia giao thông</item>\n
+        <item></item>\n
+        <item>Theo quy định, khi muốn chuyển hướng, người điều khiển phương tiện phải giảm tốc độ và có tín hiệu báo hướng rẽ.trong khi chuyển hướng, phải nhường quyền đi trước cho người đi bộ, người đi xe đạp đang đi trên phần đường dành riêng cho họ, nhường đường cho các xe đi ngược chiều.</item>\n
+        <item></item>\n
+        <item>Quy định về chuyển hướng xe khi tham gia giao thông đã được quy định tại Điều 15 Luật Giao thông đường bộ năm 2008 như sau:</item>\n
+        <item>- Khi muốn chuyển hướng, người điều khiển phương tiện phải giảm tốc độ và có tín hiệu báo hướng rẽ.</item>\n
+        <item>- Trong khi chuyển hướng, người lái xe, người điều khiển xe máy chuyên dùng phải nhường quyền đi trước cho người đi bộ, người đi xe đạp đang đi trên phần đường dành riêng cho họ, nhường đường cho các xe đi ngược chiều và chỉ cho xe chuyển hướng khi quan sát thấy không gây trở ngại hoặc nguy hiểm cho người và phương tiện khác.</item>\n
+        <item>- Trong khu dân cư, người lái xe, người điều khiển xe máy chuyên dùng chỉ được quay đầu xe ở nơi đường giao nhau và nơi có biển báo cho phép quay đầu xe.</item>\n
+        <item>- Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, trong hầm đường bộ, đường cao tốc, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất.</item>\n
+        <item></item>\n
+        <item>\tVạch kẻ đường và chuyển hướng tại nút giao</item>\n
+        <item>Vạch kẻ đường là một dạng báo hiệu để hướng dẫn,điều khiển giao thông nhằm nâng cao an toàn và khả năng thông xe và được quy định tại Điều 52 Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (QCVN 41:2016/BGTVT) và được Bộ Giao thông vận tải ban hành tại Thông tư 06/2016/TT-BGTVT ngày 8/4/2017.</item>\n
+        <item>Về việc bố trí các vạch kẻ đường tại các nút giao,trong thiết kế tuyến đường lựa chọn vạch kẻ đường đảm bảo hợp lý về tổ chức giao thông đối với từng tuyến đường và văn cứ chiều rộng mặt đường phần xe chạy, tốc độ xe chạy, lưu lượng, phương tiện và người đi bộ tham gia giao thông để quyết định bố trí vạch kẻ đường.</item>\n
+        <item></item>\n
+        <item>Ngoài ra trong quá trình tham gia giao thông trên đường bộ ở một khu vực có bố trí các hình thức báo hiệu có ý nghĩa khác nhau, người tham gia giao thông phải chấp hành loại hiệu lệnh theo thứ tự ưu tiên như sau:</item>\n
+        <item>- Hiệu lệnh của người điều khiển giao thông</item>\n
+        <item>- Hiệu lệnh của đèn tín hiệu</item>\n
+        <item>- Hiệu lệnh của biển báo hiệu</item>\n
+        <item>- Hiệu lệnh của vạch kẻ đường và các dấu hiệu khác trên mặt đường</item>\n
+        <item></item>\n
+        <item></item>\n
+    </string>
+
+    <string name="DungXeDoXe">
+        <item>Căn cứ vào Điều 18, Điều 19 Luật giao thông đường bộ số 23/2008/QH12 quy định về dừng xe, đỗ xe trên đường phố như sau:</item>\n
+        <item>1. Dừng xe là trạng thái đứng yên tạm thời của phương tiện giao thông trong một khoảng thời gian cần thiết đủ để cho người lên, xuống phương tiện, xếp dỡ hàng hóa hoặc thực hiện công việc khác.</item>\n
+                <item></item>\n
+        <item>2. Đỗ xe là trạng thái đứng yên của phương tiện giao thông không giới hạn thời gian.</item>\n
+                <item></item>\n
+        <item>3. Người điều khiển phương tiện khi dừng xe, đỗ xe trên đường bộ phải thực hiện quy định sau đây:</item>\n
+        <item>a) Có tín hiệu báo cho người điều khiển phương tiện khác biết;</item>\n
+        <item>b) Cho xe dừng, đỗ ở nơi có lề đường rộng hoặc khu đất ở bên ngoài phần đường xe chạy; trường hợp lề đường hẹp hoặc không có lề đường thì phải cho xe dừng, đỗ sát mép đường phía bên phải theo chiều đi của mình;</item>\n
+        <item>c) Trường hợp trên đường đã xây dựng nơi dừng xe, đỗ xe hoặc quy định các điểm dừng xe, đỗ xe thì phải dừng, đỗ xe tại các vị trí đó;</item>\n
+        <item>d) Sau khi đỗ xe, chỉ được rời khỏi xe khi đã thực hiện các biện pháp an toàn; nếu xe đỗ chiếm một phần đường xe chạy phải đặt ngay biển báo hiệu nguy hiểm ở phía trước và phía sau xe để người điều khiển phương tiện khác biết;</item>\n
+        <item>đ) Không mở cửa xe, để cửa xe mở hoặc bước xuống xe khi chưa bảo đảm điều kiện an toàn;</item>\n
+        <item>e) Khi dừng xe, không được tắt máy và không được rời khỏi vị trí lái;</item>\n
+        <item>g) Xe đỗ trên đoạn đường dốc phải được chèn bánh.</item>\n
+        <item></item>\n
+        <item>4. Người điều khiển phương tiện không được dừng xe, đỗ xe tại các vị trí sau đây:</item>\n
+        <item>a) Bên trái đường một chiều;</item>\n
+        <item>b) Trên các đoạn đường cong và gần đầu dốc tầm nhìn bị che khuất;</item>\n
+        <item>c) Trên cầu, gầm cầu vượt;</item>\n
+        <item>d) Song song với một xe khác đang dừng, đỗ;</item>\n
+        <item>đ) Trên phần đường dành cho người đi bộ qua đường;</item>\n
+        <item>e) Nơi đường giao nhau và trong phạm vi 5 mét tính từ mép đường giao nhau;</item>\n
+        <item>g) Nơi dừng của xe buýt;</item>\n
+        <item>h) Trước cổng và trong phạm vi 5 mét hai bên cổng trụ sở cơ quan, tổ chức;</item>\n
+        <item>i) Tại nơi phần đường có bề rộng chỉ đủ cho một làn xe;</item>\n
+        <item>k) Trong phạm vi an toàn của đường sắt;</item>\n
+        <item>l) Che khuất biển báo hiệu đường bộ.</item>\n
+        <item></item>\n
+        <item>Điều 19.Dừng xe, đỗ xe trên đường phố</item>\n
+        <item>Người điều khiển phương tiện khi dừng xe, đỗ xe trên đường phố phải tuân theo quy định tại Điều 18 của Luật này và các quy định sau đây:</item>\n
+        <item></item>\n
+        <item>1. Phải cho xe dừng, đỗ sát theo lề đường, hè phố phía bên phải theo chiều đi của mình;bánh xe gần nhất không được cách xa lề đường, hè phố quá 0,25 mét và không gây cản trở, nguy hiểm cho giao thông. Trường hợp đường phố hẹp, phải dừng xe, đỗ xe ở vị trí cách xe ô tô đang đỗ bên kia đường tối thiểu 20 mét.</item>\n
+        <item></item>\n
+        <item>2. Không được dừng xe, đỗ xe trên đường xe điện,trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước. Không được để phương tiện giao thông ở lòng đường, hè phố trái quy định.</item>\n
+    </string>
+
+    <string name="ThietBiUuTien">
+        <item>Những loại xe được quyền ưu tiên là những loại xe theo điều 22 Luật Giao thông đường bộ 2008, bao gồm:</item>\n
+        <item>Điều 22. Quyền ưu tiên của một số loại xe</item>\n
+        <item></item>\n
+        <item>1. Những xe sau đây được quyền ưu tiên đi trước xe khác khi qua đường giao nhau từ bất kỳ hướng nào tới theo thứ tự:</item>\n
+        <item>a) Xe chữa cháy đi làm nhiệm vụ;</item>\n
+        <item>b) Xe quân sự, xe công an đi làm nhiệm vụ khẩn cấp, đoàn xe có xe cảnh sát dẫn đường;</item>\n
+        <item>c) Xe cứu thương đang thực hiện nhiệm vụ cấp cứu;</item>\n
+        <item>d) Xe hộ đê, xe đi làm nhiệm vụ khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật;</item>\n
+        <item>đ) Đoàn xe tang.</item>\n
+        <item></item>\n
+        <item>Và các loại xe theo quy định tại điểm a, b, c, d khoản 1 điều 22 này sẽ phải gắn còi, cờ, đèn khi đi làm nhiệm vụ; không bị hạn chế tốc độ; được phép đi vào đường ngược chiều, các đường khác có thể đi được, kể cả khi có đèn đỏ và chỉ phải tuân theo chỉ dẫn của người điều khiển giao thông (quy định tại khoản 2 điều 22 luật này)</item>\n
+        <item></item>\n
+        <item>Loại đèn và Hình dạng đèn của những loại xe ưu tiên gồm 2 loại:</item>\n
+        <item></item>\n
+        <item>- Loại Đèn đơn, hình dạng: Đèn phát tín hiệu ưu tiên dạng hình tròn và đèn phát tín hiệu ưu tiên dạng hình trụ.</item>\n
+        <item></item>\n
+        <item>- Loại Đèn đôi, hình dạng: Đèn phát tín hiệu ưu tiên dạng hình hộp chữ nhật loại 2 bóng đèn và đèn phát tín hiệu ưu tiên dạng hình hộp chữ nhật 4 loại bóng.</item>\n
+        <item></item>\n
+        <item>Quy định cụ thể của từng loại xe khi đi làm nhiệm vụ khẩn cấp và tín hiệu như sau:</item>\n
+        <item></item>\n
+        <item>- Xe quân sự đi làm nhiệm vụ khẩn cấp, gồm; các xe quân sự đi làm nhiệm vụ chỉ huy chữ cháy, chỉ huy cứu hộ, cứu nạn, chỉ huy tác chiến, thông tin làm nhiệm vụ hỏa tốc, chỉ huy đoàn hành quân, xe làm nhiệm vụ kiểm soát quân sự, kiểm tra xe quân sự, bảo vệ đoàn; xe thực hiện nhiệm vụ bắt, khám xét hoặc thiện hiện các hoạt động điều tra, dẫn giải tội phạm, tham gia phòng, chống khủng bố. Tín hiệu của xe quân sự đi làm nhiệm vụ khẩn cấp là xe ô tô, xe mô tô có đèn quay hoặc đèn chớp phát sáng màu đỏ gắn trên nóc xe (đối với xe ô tô) và ở càng xe (đối với xe mô tô) hoặc phía sau xe mô tô, cờ hiệu Quân sự cắm ở đầu xe phía bên trái người lái xe ô tô và đầu xe mô tô; có còi tín hiệu ưu tiên.</item>\n
+        <item></item>\n
+        <item>- Xe công an đi làm nhiệm vụ khẩn cấp gồm: các xe đi thực hiện nhiệm vụ bắt, khám xét hoặc tiến hành các hoạt động điều tra, dẫn giải người phạm tôi, chống biểu tình, bạo loạn, giải tán đám đông gây rối trật tự công cộng, xe làm nhiệm vụ tuần tra kiểm soát giao thông, chỉ huy tác chiến chống khủng bố, thông tin làm nhiệm vụ hỏa tốc, chỉ huy đoàn hành quân. Tín hiệu của xe công an đi làm nhiệm vụ khẩn cấp là xe ô tô, xe mô tô có quèn quay hoặc đèn chớp phát sáng có màu xanh hoặc đỏ gắn trên nóc xe ô tô và gắn trên càng xe ở phía trước hoặc phía sau xe mô tô và cờ hiệu Công an được cắm ở đầu xe phía bên trái người lái ô tô, ở đầu xe mô tô; có còi phát tín hiệu ưu tiên.</item>\n
+        <item></item>\n
+        <item>- Xe cứu thương đang thực hiện nhiệm vụ cấp cứu là xe đang chở bệnh nhân cấp cứu hoặc đi đón bệnh nhân cấp cứu. Tín hiệu của xe cứu thương có đèn quay hoặc đèn chớp phát sáng màu đỏ gắn trên nóc xe; có còi tín hiệu phát ưu tiên.</item>\n
+        <item></item>\n
+        <item>- Xe đi làm nhiệm vụ trong tình trạng khẩn cấp là xe đi thi hành các biện pháp đặc biệt khi có tình trạng đe dọa nghiêm trọng an ninh quốc gia và trật tự, an toàn xã hội hoặc khi có thảm họa lớn, dịch bệnh nguy hiểm.</item>\n
+        <item></item>\n
+        <item>- Xe chữa cháy đi làm nhiệm vụ có đèn quay hoặc đèn chớp phát sáng màu đỏ hoặc xanh gắn trên nóc xe, có còi phát tín hiệu ưu tiên</item>\n
+        <item></item>\n
+        <item>- Xe Cảnh sát giao thông dẫn đường là xe ô tô và xe mô tô, có tín hiệu là đèn quay hoặc đèn chớp phát sáng màu xanh - đỏ gắn trên nóc xe ô tô và màu xanh hoặc đỏ gắn ở càng xe phía trước hoặc phía sau; cờ Công cắm ở đầu xe, bên trái người lái xe ô tô và cắm ở đầu xe mô tô; có còi phát tín hiệu ưu tiên.</item>\n
+        <item></item>\n
+        <item>- Xe hộ đê, xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật phải có tín hiệu là cờ hiệu "HỘ ĐÊ" cắm ở đầu xe phía bên trái người lái. Xe đi làm nhiệm vụ khắc phục sự cố thiên tai, dịch bệnh hoặc xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật thực hiện như sau:</item>\n
+        <item>+/ Xe đi làm nhiệm vụ khắc phục sự cố thiên tai, dịch bệnh có biển hiệu riêng</item>\n
+        <item>+/ Xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật có cờ hiệu "TÌNH TRẠNG KHẨN CẤP" cắm ở đầu xe phía bên trái người lái.</item>\n
+        <item></item>\n
+        <item>Nếu gặp những xe ưu tiên như trên mà không nhường đường để xe đi làm nhiệm vụ thì sẽ bị xử phạt theo quy định của pháp luật hiện hành, cụ thể theo Nghị định 100/2019/NĐ-CP có quy định</item>\n
+        <item></item>\n
+        <item>5. Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:</item>\n
+        <item>- h) Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ;</item>\n
+        <item></item>\n
+        <item>4. Phạt tiền từ 600.000 đồng đến 1.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:</item>\n
+        <item>đ) Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ</item>\n
+        <item></item>\n
+        <item>4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây</item>\n
+        <item>e) Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ;</item>\n
+        <item></item>\n
+    </string>
+
+
+    <string name="TocDoKhoangCach">
+            <item>* Trong khu vực đông dân cư:</item>\n
+            <item> - Đường đôi; đường một chiều có từ 02 làn xe cơ giới trở lên: Tối đa 60km/h;</item>\n
+            <item>- Đường hai chiều; đường một chiều có 01 làn xe cơ giới: Tối đa 50km/h.</item>\n
+            <item></item>\n
+            <item>* Ngoài khu vực đông dân cư:</item>\n
+            <item> - Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ xe buýt); ô tô tải có trọng tải nhỏ hơn hoặc bằng 3,5 tấn:</item>\n
+            <item>+ Tối đa 90 km/h tại đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên;</item>\n
+            <item>+ Tối đa 80km/h tại đường hai chiều; đường một chiều có một làn xe cơ giới;</item>\n
+            <item></item>\n
+            <item>- Xe ô tô chở người trên 30 chỗ (trừ xe buýt); ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc):</item>\n
+            <item>+ Tối đa 80 km/h tại đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên;</item>\n
+            <item>+ Tối đa 70km/h tại đường hai chiều; đường một chiều có một làn xe cơ giới.</item>\n
+            <item></item>\n
+            <item>- Ô tô buýt; ô tô đầu kéo kéo sơ mi rơ moóc; xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông):</item>\n
+            <item>+ Tối đa 70 km/h tại đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên;</item>\n
+            <item>+ Tối đa 60km/h tại đường hai chiều; đường một chiều có một làn xe cơ giới.</item>\n
+            <item></item>\n
+            <item>- Ô tô kéo rơ moóc; ô tô kéo xe khác; ô tô trộn vữa, ô tô trộn bê tông, ô tô xi téc:</item>\n
+            <item>+ Tối đa 60 km/h tại đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên;</item>\n
+            <item>+ Tối đa 50km/h tại đường hai chiều; đường một chiều có một làn xe cơ giới.</item>\n
+            <item></item>\n
+            <item>Đối với xe máy chuyên dùng, xe gắn máy (kế cả xe máy điện) và các loại xe tương tự khi tham gia giao thông tốc độ tối đa không quá 40 km/h.</item>\n
+            <item></item>\n
+            <item>Bên cạnh đảm bảo tốc độ cho phép, tại Điều 11 Thông tư quy định, ở nơi có biển báo "Cự ly tối thiểu giữa hai xe" phải giữ khoảng cách không nhỏ hơn trị số ghi trên biển báo, người lái xe phải giữ một khoảng cách an toàn đối với xe chạy liền trước xe của mình</item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+        </string>
+
+    <string name="VanChuyen">
+            <item>1 Mang theo giấy tờ xe:</item>\n
+            <item>Để tham gia giao thông đường bộ thì các phương tiện vận chuyển bằng ô tô cần phải mang đầy đủ những giấy tờ sau:</item>\n
+            <item>- Giấy đăng ký xe ô tô.</item>\n
+            <item>- Giấy chứng nhận bảo hiểm các loại </item>\n
+            <item>- Giấy chứng nhận kiểm tra an toàn kỹ thuật và bảo vệ môi trường( gọi tắt là giấy chứng nhận kiểm định ), được dán tem kiểm định .</item>\n
+            <item>- Giấy lưu hành cho xe quá khổ, quá tải (nếu có).</item>\n
+            <item>- Sổ nhật trình chạy xe.</item>\n
+            <item>- Phù hiệu xe chạy hợp đồng…</item>\n
+            <item></item>\n
+            <item>Vậy, khi vận chuyển hàng hóa bằng phương tiện vận chuyển hàng hóa này thì cần mang theo những giấy tờ trên để quá trình vận chuyển hàng hóa được thuận lợi, tiết kiệm kinh phí và tiết kiệm thời gian.</item>\n
+            <item></item>\n
+            <item>2 Mang theo giấy tờ kinh doanh phương tiện:</item>\n
+            <item>Chủ phương tiện cần phải có: Giấy chứng nhận đăng ký kinh doanh vận tải theo nghành nghề củ thể trong suốt quá trình vận chuyển. Bên cạnh đó, nếu là hợp đồng dịch vụ với khách hàng nên photo một bản mang theo để trừ những trường hợp xấu xảy ra làm ảnh hưởng tới quá trình vận chuyển hàng hóa.</item>\n
+            <item></item>\n
+            <item>3 Mang theo giấy tờ của người điều khiển phương tiện</item>\n
+            <item>Đây là một trong những loại giấy tờ không thể thiếu khi điều khiển phương tiện giao thông để vận chuyển hàng hóa. Loại giấy tờ này bao gồm:</item>\n
+            <item>-Giấy phép lái xe phù hợp với xe đang điều khiển.</item>\n
+            <item>-Giấy chứng nhận tập huấn lái xe taxi hoặc giấy chứng nhận huấn luyện vận chuyển hàng nguy hiểm khi thực hiện nhiệm vụ tương ứng.</item>\n
+            <item>-Giấy chứng nhận sức khoẻ định kỳ đối với người lái xe.</item>\n
+            <item></item>\n
+            <item>4 Mang theo hợp đồng vận chuyển</item>\n
+            <item></item>\n
+            <item>1. Đối với những doanh nghiệp là đối tác lớn, đòi hỏi cần phải có hợp đồng và quy định một cách rõ ràng. Hợp đồng vận chuyển này thường là dành cho một lô hàng cần được vận chuyển đến nơi. Hợp đồng này sẽ xác minh rõ quyền hạn và trách nhiệm của hai bên trong việc vận chuyển hàng hóa, từ đó có thể dễ dàng thanh lý hợp đồng mà không vướng mắc những quy định.</item>\n
+            <item></item>\n
+            <item>5 Mang theo giấy đi đường</item>\n
+            <item></item>\n
+            <item>Giấy đi đường thường được cấp cho xe kinh doanh vận tải hàng hóa, nó được cấp cho từng chuyến hàng, cho từng xe, làm chứng từ cho phương tiện vận chuyển. Trong giấy đi đường này sẽ có cập nhật nơi đi, nơi đến, phương tiện sử dụng, số ngày công tác, lý do lưu trú... Loại giấy này sẽ xác minh một cách rõ ràng hành trình của chuyến xe để dễ dàng kiểm soát hơn.</item>\n
+            <item></item>\n
+            <item>- Thủ tục cấp giấy phép :</item>\n
+            <item>Bước 1 : Chủ hàng có công văn hoặc đơn đề nghị cấp giấy phép vận chuyển đặc biệt gửi Chi cục kiểm lâm sở tại, trong đó nêu rõ nguồn gốc, khối lượng, số lượng, chủng loại gỗ và lâm sản, nơi đi, nơi đến, thời gian, phương tiện vận chuyển kèm theo chứng từ gốc về nguồn gốc gỗ, lâm sản.</item>\n
+            <item></item>\n
+            <item>Bước 2: Chi cục kiểm lâm xem xét nếu đầy đủ hồ sơ chứng từ thì cấp ngay giấy phép vận chuyển đặc biệt, nếu chưa đủ thì hướng dẫn cho khách hàng bổ sung để chậm nhất trong vòng 10 ngày chủ hàng được cấp giấy phép vận chuyển đặc biệt.</item>\n
+            <item></item>\n
+            <item></item>\n
+        </string>
+
+    <string name="TrangThietBi">
+            <item>Mỗi phương tiện khi tham gia giao thông đều phải đáp ứng những điều kiện nhất định. Tùy từng loại phương tiện mà Luật Giao thông đường bộ đã đặt ra những quy định khác nhau như sau:</item>\n
+            <item>* Với xe cơ giới: Cần đáp ứng đủ các điều kiện sau:</item>\n
+            <item>- Xe ô tô phải bảo đảm các quy định về chất lượng, an toàn kỹ thuật và bảo vệ môi trường sau:</item>\n
+            <item>+ Có đủ hệ thống hãm có hiệu lực;</item>\n
+            <item>+ Có hệ thống chuyển hướng có hiệu lực;</item>\n
+            <item>+ Tay lái của xe ô tô ở bên trái của xe; trường hợp xe ô tô của người nước ngoài đăng ký tại nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam thực hiện theo quy định của Chính phủ;</item>\n
+            <item>+ Có đủ đèn chiếu sáng gần và xa, đèn soi biển số, đèn báo hãm, đèn tín hiệu;</item>\n
+            <item>+ Có bánh lốp đúng kích cỡ và đúng tiêu chuẩn kỹ thuật của từng loại xe;</item>\n
+            <item>+ Có đủ gương chiếu hậu và các trang bị, thiết bị khác bảo đảm tầm nhìn cho người điều khiển;</item>\n
+            <item>+ Kính chắn gió, kính cửa là loại kính an toàn;</item>\n
+            <item>+ Có còi với âm lượng đúng quy chuẩn kỹ thuật;</item>\n
+            <item>+ Có đủ bộ phận giảm thanh, giảm khói và các trang bị, thiết bị khác bảo đảm khí thải, tiếng ồn theo quy chuẩn môi trường</item>\n
+            <item>+ Các kết cấu phải đủ độ bền và bảo đảm tính năng vận hành ổn định.</item>\n
+            <item></item>\n
+            <item>- Xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải bảo đảm các quy định về chất lượng, an toàn kỹ thuật và bảo vệ môi trường:</item>\n
+            <item>+ Có đủ hệ thống hãm có hiệu lực;</item>\n
+            <item>+ Có hệ thống chuyển hướng có hiệu lực;</item>\n
+            <item>+ Có đủ đèn chiếu sáng gần và xa, đèn soi biển số, đèn báo hãm, đèn tín hiệu;</item>\n
+            <item>+ Có bánh lốp đúng kích cỡ và đúng tiêu chuẩn kỹ thuật của từng loại xe;</item>\n
+            <item>+ Có đủ gương chiếu hậu và các trang bị, thiết bị khác bảo đảm tầm nhìn cho người điều khiển</item>\n
+            <item>+ Có còi với âm lượng đúng quy chuẩn kỹ thuật</item>\n
+            <item>+ Có đủ bộ phận giảm thanh, giảm khói và các trang bị, thiết bị khác bảo đảm khí thải, tiếng ồn theo quy chuẩn môi trường;</item>\n
+            <item>+ Các kết cấu phải đủ độ bền và bảo đảm tính năng vận hành ổn định.</item>\n
+            <item></item>\n
+            <item>- Xe cơ giới phải đăng ký và gắn biển số do cơ quan nhà nước có thẩm quyền cấp.</item>\n
+            <item>- Đảm bảo niên hạn sử dụng đối với xe cơ giới.</item>\n
+            <item></item>\n
+            <item>Căn cứ: Điều 53 Luật Giao thông đường bộ.</item>\n
+            <item>* Với xe thô sơ: Phải đáp ứng:</item>\n
+            <item>- Bảo đảm điều kiện an toàn giao thông đường bộ.</item>\n
+            <item>- Hoạt động theo điều kiện, phạm vi mà Ủy ban nhân dân cấp tỉnh quy định.</item>\n
+            <item></item>\n
+            <item>Căn cứ: Điều 56 Luật Giao thông đường bộ</item>\n
+            <item>* Với xe máy chuyên dùng: Cần đảm bảo các điều kiện:</item>\n
+            <item>- Bảo đảm các quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường:</item>\n
+            <item>+ Có đủ hệ thống hãm có hiệu lực;</item>\n
+            <item>+ Có hệ thống chuyển hướng có hiệu lực;</item>\n
+            <item>+ Có đèn chiếu sáng</item>\n
+            <item>+ Bảo đảm tầm nhìn cho người điều khiển;</item>\n
+            <item>+ Các bộ phận chuyên dùng phải lắp đặt đúng vị trí, chắc chắn, bảo đảm an toàn khi di chuyển;</item>\n
+            <item>+ Bảo đảm khí thải, tiếng ồn theo quy chuẩn môi trường.</item>\n
+            <item></item>\n
+            <item>- Có đăng ký và gắn biển số do cơ quan nhà nước có thẩm quyền cấp.</item>\n
+            <item>- Hoạt động trong phạm vi quy định, bảo đảm an toàn cho người, phương tiện và công trình đường bộ khi di chuyển.</item>\n
+            <item>- Việc sản xuất, lắp ráp, cải tạo, sửa chữa và nhập khẩu xe máy chuyên dùng phải tuân theo quy định.</item>\n
+            <item>- Chủ phương tiện và người điều khiển chịu trách nhiệm duy trì tình trạng an toàn kỹ thuật và kiểm định theo quy định.</item>\n
+            <item></item>\n
+            <item>Căn cứ: Điều 57 Luật Giao thông đường bộ.</item>\n
+            <item></item>\n
+            <item></item>\n
+        </string>
+
+    <string name="DuongCam">
+            <item>Phương tiện tham gia giao thông đường bộ đi vào khu vự, đường có biển cấm xe mà mình đang điều khiển sẽ bị xử phạt theo quy định tại Nghị định 100/2019/NĐ-CP.</item>\n
+            <item></item>\n
+            <item>*Đối với xe ô tô:</item>\n
+            <item>Phạt tiền từ 1.000.000 đến 2.000.000 đồng đối với người điển khiển xe ô tô đi vào khu vực cấm, đường có biển báo hiệu cấm xe ô tô trừ các hành vi vi phạm quy định tại điểm c khoản 5, điểm a khoản 8 Điều 5 và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định (Theo điểm b khoản 4 Điều 5).</item>\n
+            <item>Ngoài ra, bị tước giấy phép lái xe từ 01-03 tháng (điểm b khoản 11)</item>\n
+            <item></item>\n
+            <item>*Đối với xe máy:</item>\n
+            <item>Phạt tiền từ 400.000 – 600.000 đồng đối với người điều khiển xe máy đi vào khu vực cấm hoặc đường có biển báo cấm xe máy. Trừ các hành vi vi phạm quy định tại khoản 5, điểm b khoản 6 Điều 6 và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định (Theo điểm i khoản 3 Điều 6 Nghị định 100);</item>\n
+            <item>Ngoài ra, bị tước giấy phép lái xe từ 01-03 tháng (điểm b khoản 10 Điều 6)</item>\n
+            <item></item>\n
+            <item>*Đối với xe đạp, xe đạp điện, xe máy điện</item>\n
+            <item>Phạt tiền từ 200.000-300.000 đồng đối với người điển khiển xe đạp, xe đạp điện, xe máy điện đi vào khu vực cấm, đường có biển báo cấm xe đạp, xe đạp điện, xe máy điện (theo điểm c khoản 3 Điều 8).</item>\n
+            <item></item>\n
+            <item>*Đối với máy kéo, xe máy chuyên dùng</item>\n
+            <item>Phạt tiền từ 400.000-600.000 đồng đối với người điều khiển đi vào khu vực cấm, đường có biển báo cấm máy kéo, xe máy chuyên dùng. Trừ các hành vi vi phạm quy định tại điểm c khoản 4; điểm a khoản 8 Điều 7 và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định (theo điểm b khoản 3 Điều 7)</item>\n
+            <item> Ngoài ra, bị tước Giấy phép lái xe (khi điều khiển máy kéo), chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (khi điều khiển xe máy chuyên dùng) từ 01-03 tháng (điểm a khoản 10 Điều 7).</item>\n
+            <item></item>\n
+            <item>*Mức phạt đối với xe đi vào đường cấm theo giờ</item>\n
+            <item>Đối với xe ô tô đi vào khu vực, đường có biển báo cấm phương tiện đang điều khiển theo giờ thì bị xử phạt như lỗi đi vào đường cấm, khu vực cấm.</item>\n
+            <item></item>\n
+            <item>Theo Điều 27 quy chuẩn kỹ thuật Quốc gia QCVN 41:2019/BGTVT về báo hiệu đường bộ ban hành kèm theo Thông tư 54/2019/TT-BGTVT, trong trường hợp cần thiết cấm theo thời gian dưới biển cấm sẽ được đặt thêm biển phụ số S.508, có thể viết thêm chú thích bằng tiếng Việt và phụ đề tiếng Anh trong biển này (nếu khu vực đó có nhiều người nước ngoài tham gia giao thông hoặc tuyến đường đối ngoại).</item>\n
+            <item></item>\n
+            <item>*Cách nhận biết biển báo hiệu cấm xe đi vào đường</item>\n
+            <item></item>\n
+            <item>Biển đường cấm là biển báo giao thông hình tròn, nền trắng, viền màu đỏ. Với biển cấm từng loại phương tiện sẽ vẽ hình phương tiện đó bên trong và gạch chéo</item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+        </string>
+
+    <string name="NongDoCon">
+            <item>Theo đó, người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô, xe gắn máy trên đường mà trong máu hoặc hơi thở có nồng độ cồn thì bị phạt như sau:</item>\n
+            <item></item>\n
+            <item>- Có nồng độ cồn trong máu hoặc hơi thở nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở thì bị phạt tiền từ 2.000.000 đồng đến 3.000.000  đồng (Nghị định 46/2016/NĐ-CP không quy định mức phạt tiền với trường hợp này).
+            </item>\n
+            <item></item>\n
+            <item>- Có nồng độ cồn trong máu hoặc hơi thở vượt quá 50 miligam đến 80 miligam /100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở thì bị phạt tiền từ 4.000.000 đồng đến 5.000.000 đồng (Mức phạt theo Nghị định 46 là từ 1.000.000 đồng đến 2.000.000 đồng).</item>\n
+            <item></item>\n
+            <item>- Có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở thì bị phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng (Mức phạt theo Nghị định 46 là từ 3.000.000 đồng đến 4.000.000 đồng).</item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+        </string>
+
+    <string name="GiayPhep">
+            <item></item>\n
+            <item>Theo quy định tại Điều 58 Luật Giao thông đường bộ, điểm 3 mục I Thông tư 04/1999/TT-BCA(C13) và Điều 20 Luật căn cước công dân thì những loại giấy tờ bắt buộc phải xuất trình được khi có yêu cầu của CSGT bao gồm:</item>\n
+            <item></item>\n
+            <item>- Đối với người điều khiển xe máy:</item>\n
+            <item>(1) Giấy tờ tùy thân (CMND/CCCD hoặc giấy tờ có giá trị thay thế khác)</item>\n
+            <item>(2) Đăng ký xe</item>\n
+            <item> (3) Giấy phép lái xe</item>\n
+            <item> (4) Giấy chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc.</item>\n
+            <item></item>\n
+            <item></item>\n
+            <item>- Đối với người điều khiển xe ô tô:</item>\n
+            <item> (1) Giấy tờ tùy thân (CMND/CCCD hoặc giấy tờ có giá trị thay thế khác)</item>\n
+            <item> (2) Đăng ký xe</item>\n
+            <item> (3) Giấy phép lái xe</item>\n
+            <item> (4) Giấy chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc.</item>\n
+            <item> (5) Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường.</item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+            <item></item>\n
+        </string>
+</resources>

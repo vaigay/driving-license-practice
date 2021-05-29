@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS trick(id INTEGER PRIMARY KEY, name VARCHAR(250) ,type INTEGER  )
+CREATE TABLE IF NOT EXISTS trick_detail(id INTEGER PRIMARY KEY AUTOINCREMENT, id_trick INTEGER ,description TEXT )
+database.execSQL(" INSERT INTO trick VALUES(1,'Bài 3: Bài thi dừng xe và khỏi hành lên dốc', ");
+database.execSQL(" INSERT INTO trick_detail VALUES(null,1,'Giữ động cơ khởi động'),(null,1,'Thí sinh chú ý vạch kẻ đường'),(null,1,'Lái xe theo đúng quy tắc giao thông đường bộ')
+database.execSQL(" INSERT INTO trick VALUES(2,'Bài 4: Bài thi qua vệt bánh xe và đường vuông góc', ");
+database.execSQL(" INSERT INTO trick_detail VALUES(null,2,'Sau khi đi qua hàng đinh, bạn thấy người ngang với vỉa ba toa vuông góc bên trái thì đánh lái hết sang trái. Đi từ từ và trả lái')
+database.execSQL(" INSERT INTO trick VALUES(3,'Bài 5: Qua ngã tư có tín hiệu đèn',");
+database.execSQL(" INSERT INTO trick_detail VALUES(null,3,'Bài này tương đối đơn giản, thí sinh cần chú ý tín hiệu đèn thì dừng lại')
+database.execSQL(" INSERT INTO trick VALUES(4,'Bài 6: Qua đường vòng quanh co',");
+database.execSQL(" INSERT INTO trick_detail VALUES(null,4,'Bài thi này là hính chữ S là đường cong liên tục nên bạn phải điều chỉnh tay lái theo đường cong')
+database.execSQL(" INSERT INTO trick VALUES(5,'Bài 7: Ghép xe dọc vào nơi đỗ',");
+database.execSQL(" INSERT INTO trick_detail VALUES(null,5,'Đi đúng quy định của hạng xe sát hạch, giữ tốc độ chạy không quá 24km/h')
+database.execSQL(" INSERT INTO trick VALUES(6,'Bài 8: Ghép xe ngang vào nơi đỗ',");
+database.execSQL(" INSERT INTO trick_detail VALUES(null,6,'Đi đúng quy định của hạng xe sát hạch, giữ tốc độ chạy không quá 24km/h')
+database.execSQL(" INSERT INTO trick VALUES(7,'Bài 9: Tạm dừng ở chổ có đường sắt chạy')
+database.execSQL(" INSERT INTO trick_detail VALUES(null,7,'Dừng xe cách vạch dừng quy định không quá 500mm'),(null,7,'Giữ động cô luôn hoạt độn'),(null,7,'Lái xe đúng quy định của luột giao thông đường bộ và vận tốc không quá 24km/h')

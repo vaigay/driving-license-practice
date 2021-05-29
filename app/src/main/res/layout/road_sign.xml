@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="5dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginLeft="8dp"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="100dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/imageRoadSign"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/anh1"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/textViewRoadSignName"
+            android:layout_width="258dp"
+            android:layout_height="match_parent"
+            android:text="ten bien "
+            android:textSize="15dp" />
+        <TextView
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/textViewRoadSignDes"
+            android:layout_width="258dp"
+            android:layout_height="match_parent"
+            android:text="mo ta o day nha pro"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+</LinearLayout>

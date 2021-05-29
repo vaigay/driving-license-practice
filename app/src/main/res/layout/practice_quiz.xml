@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="top"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/image_quiz_practice"
+                android:layout_width="300dp"
+                android:layout_gravity="center_horizontal"
+
+                android:layout_height="200dp" />
+            <TextView
+                android:id="@+id/quiz_content_practice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Khi tầm nhìn bị hản chế bởi sương mù hoặc mưa to, người lái xe phải thực hiện thao tác nào?"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/deadpoint_practice_check"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Câu hỏi điểm liệt"
+                android:textColor="@color/design_default_color_error"
+                android:textStyle="bold" />
+
+            <RadioGroup
+                android:id="@+id/quiz_practice_radioGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <RadioButton
+                    android:id="@+id/answer1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tăng tốc, chạy gần xe trước, nhìn đèn hậu để định hướng." />
+
+                <RadioButton
+                    android:id="@+id/answer2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Giảm tốc độ, chạy cách xa xe trước khoảng cách an toàn, bật đền sương mù và đèn chiếu gần" />
+
+                <RadioButton
+                    android:id="@+id/answer3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tăng tốc, bật đèn pha vượt qua xe chạy trước" />
+
+                <RadioButton
+                    android:id="@+id/answer4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tăng tốc, chạy gần xe trước, nhìn đèn hậu để định hướng." />
+
+                <RadioButton
+                    android:id="@+id/answer5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tăng tốc, chạy gần xe trước, nhìn đèn hậu để định hướng." />
+
+                <TextView
+                    android:id="@+id/hint_practice"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="GIẢI THÍCH ĐÁP ÁN"
+                    android:textSize="17dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/hint_explain_practice"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:background="@color/trueAnswer"
+                    android:padding="5dp"
+                    android:text="vàaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaqweoriqwenqweklqw[emwqepqweqwe,,,,,,,,,,,,,,,,,,,,,,,,,,,qwejqowasndasodqnfikqashfgoqaishdjaskdhnoiqwkejdopqmsdap[sdkaspodkqwihrqopiwhedqpowjdpqojdmpqdjkqw0porhjwqpoirhqwoirhqpwikdnmqwopkjxcp[qwoke[pqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqwekqwprhqwpondqwop;[jeqwp[orujqwpnc['qpwejqwoepjqwejqwpeng vàaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaqweoriqwenqweklqw[emwqepqweqwe,,,,,,,,,,,,,,,,,,,,,,,,,,,qwejqowasndasodqnfikqashfgoqaishdjaskdhnoiqwkejdopqmsdap[sdkaspodkqwihrqopiwhedqpowjdpqojdmpqdjkqw0porhjwqpoirhqwoirhqpwikdnmqwopkjxcp[qwoke[pqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqwekqwprhqwpondqwop;[jeqwp[orujqwpnc['qpwejqwoepjqwejqwpeng và cần gạt nước để thấy được trong mừa và sương mù. cho xe đi chậm nếu quá nguy hiểm nên dừng lại và báo hiệu cho các xe khác được biết. Đáp án 3 sai vì không bật đèn chiếu xa trong tình trạng sương mù, vì như vật sẽ không quan sát được, tăng tốc sẽ cực kỳ nguy hiểm\nĐáp án 1 sai vì không bật đèn chiếu gần, đèn sương mù\nĐáp án 2 đúng" />
+            </RadioGroup>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="80dp"></Space>
+        </LinearLayout>
+    </ScrollView>
+
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation_practice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/quiz_navigation" />
+</RelativeLayout>

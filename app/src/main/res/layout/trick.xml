@@ -8,20 +8,11 @@
     <LinearLayout
         android:id="@+id/linearLayout"
         android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:layout_marginBottom="628dp"
-        android:orientation="vertical"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="horizontal">
-
-
                 <Button
                     android:id="@+id/buttonMeoLT"
                     android:layout_width="0dp"
@@ -29,16 +20,12 @@
                     android:layout_weight="1"
                     android:text="Mẹo Thi Lý Thuyết" />
 
-
-
                 <Button
                     android:id="@+id/buttonMeoTH"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:text="Mẹo Thi Thực Hành" />
-
-        </LinearLayout>
     </LinearLayout>
 
     <ExpandableListView

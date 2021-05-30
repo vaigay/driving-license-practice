@@ -48,8 +48,7 @@ public class ExamAdapter extends  RecyclerView.Adapter<ExamAdapter.ViewHolder>{
             holder.frameLayout.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    Exam exam = examDAO.insertExam();
-                    examDAO.createNewExam(exam.getId());
+                    Exam exam = examDAO.createNewExam();
                     examList.add(exam);
                     notifyDataSetChanged();
                 }

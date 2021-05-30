@@ -16,13 +16,10 @@ public class ExamDAO {
         dbConnect = new DBConnect(context,DBInfo.dbName,null,DBInfo.version);
     }
 
-    public Exam insertExam(){
+
+    public Exam createNewExam(){
         int idExam = dbConnect.insertExam();
         Exam exam = new Exam(idExam,0,"no");
-        return exam;
-    }
-
-    public void createNewExam(int idExam){
         ArrayList<Integer> idQuizzes = new ArrayList<>();
         String sql1 = "SELECT id_quiz FROM  category_quiz WHERE  id_category = 1 ORDER BY RANDOM() LIMIT 2";
         Cursor cursor1 = dbConnect.QueryData(sql1);
@@ -43,6 +40,7 @@ public class ExamDAO {
             String sql3 = "INSERT INTO exam_quiz VALUES (" + idExam + ", " + idQuizzes.get(i) + ", 0, 0)";
             dbConnect.QueryTable(sql3);
         }
+        return exam;
     }
 
     public ArrayList<Exam> getAllExam(){

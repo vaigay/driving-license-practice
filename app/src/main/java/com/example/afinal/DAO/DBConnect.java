@@ -75,7 +75,7 @@ public class DBConnect extends SQLiteOpenHelper {
     }
 
     public int insertExam(){
-        SQLiteDatabase db = this.getWritableDatabase();
+        SQLiteDatabase db = getWritableDatabase();
         ContentValues cv = new ContentValues();
         cv.putNull("id");
         cv.put("result",0);
@@ -83,7 +83,4 @@ public class DBConnect extends SQLiteOpenHelper {
         return (int) db.insert("exam",null,cv);
     }
 
-    public SQLiteDatabase getWriteDB(){
-        return this.getWritableDatabase();
-    }
 }
